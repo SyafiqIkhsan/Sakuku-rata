@@ -10,6 +10,15 @@
   <a href="#"><img src="https://img.shields.io/badge/laravel-13.x-red.svg" alt="Laravel"></a>
 </p>
 
+
+  ```bash
+  # link demo
+  https://sakukurata-two.vercel.app/
+
+  #link penjualan
+  
+  ```
+
 ---
 
 ## Deskripsi
