@@ -15,6 +15,10 @@
   # link demo
   https://sakukurata-two.vercel.app/
 
+  # akun demo
+  email: test2@example.com
+  password: 12345678
+
   #link penjualan
   
   ```
